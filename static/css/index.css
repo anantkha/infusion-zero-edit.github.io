@@ -239,7 +239,7 @@ a:hover:after{
   overflow:hidden;
 }
 .marquee-inner span{
-  float:left;
+  float:center;
   width:50%;
 }
 .marquee-wrapper .marquee-block{
@@ -287,7 +287,7 @@ a:hover:after{
   height: 250px;
   display: inline-block;
   margin: 0 10px;
-  float: left;
+  float: center;
   transition: all .3s ease-out;
   background:#ececec;
   border-bottom: orange 5px solid;
